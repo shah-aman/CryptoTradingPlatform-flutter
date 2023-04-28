@@ -18,7 +18,7 @@ to download all the packages
 to run the code make sure you have a physical device connected or a emulator running for either Android or iOS
 
 
-![Simulator Screen Shot - iPhone 12 - 2023-04-28 at 03 39 04](https://user-images.githubusercontent.com/30745002/235074130-b76fadea-752b-4e51-b5d9-e776406b7b1c.png){width=50%}
+![Simulator Screen Shot - iPhone 12 - 2023-04-28 at 03 39 04](https://user-images.githubusercontent.com/30745002/235074130-b76fadea-752b-4e51-b5d9-e776406b7b1c.png){width=200px}
 ![Simulator Screen Shot - iPhone 12 - 2023-04-28 at 05 07 07](https://user-images.githubusercontent.com/30745002/235074148-4c97b672-3a67-40ef-9296-49b53f5e132a.png){width=50%}
 ![Simulator Screen Shot - iPhone 12 - 2023-04-28 at 12 11 51](https://user-images.githubusercontent.com/30745002/235074156-02ff988c-2332-4766-bc54-27258ecfc5a0.png){width=50%}
 ![Simulator Screen Shot - iPhone 12 - 2023-04-28 at 12 11 54](https://user-images.githubusercontent.com/30745002/235074159-d52dccf0-9ba3-4e99-a8b2-7102c5829e0f.png){width=50%}
