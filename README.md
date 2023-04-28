@@ -1,4 +1,4 @@
-##Flutter Crypto Trading UI
+# Flutter Crypto Trading UI
 This project is a Flutter application that provides a user interface for trading cryptocurrencies.
 
 Requirements
