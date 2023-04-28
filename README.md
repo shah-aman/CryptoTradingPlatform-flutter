@@ -1,16 +1,26 @@
-# crypto_wallet
+##Flutter Crypto Trading UI
+This project is a Flutter application that provides a user interface for trading cryptocurrencies.
 
-A new Flutter project.
+Requirements
+Flutter 3.5 or higher
+Dart 2.17 or higher
 
-## Getting Started
+To Run 
+Clone the repo
 
-This project is a starting point for a Flutter application.
+`flutter doctor`
+to check if you have desired softwares and sdks install
 
-A few resources to get you started if this is your first Flutter project:
+`flutter pub get`
+to download all the packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+`flutter run`
+to run the code make sure you have a physical device connected or a emulator running for either Android or iOS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+Disclaimer
+This project is a functional version of the design. Due to the lack of Figma assets, I was unable to replicate the design exactly. However, I have tried to  my create the components  to recreate the design. 
+
+
